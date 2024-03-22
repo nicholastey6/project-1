@@ -1,0 +1,31 @@
+h1 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+div.image::before {
+  content: url("OIP.jpeg");
+}
+
+/* section {
+  background: #8b0000;
+} */
+
+section divp {
+  justify-content: center;
+}
+
+nav .container {
+  background-color: black;
+}
+
+div a {
+  color: white;
+}
+
+.ms-3 {
+  background-color: black;
+}
